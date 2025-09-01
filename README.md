@@ -1,7 +1,7 @@
-<h1> Teste de repositorio em GITHUB<h1>
+<h1>Repositorio em GITHUB sobre SQL<h1>
 
-> Testando o GITHUB.
+> Acompanhando meu aprendizado
 
 ```
-TESTE
+SQL
 ```
